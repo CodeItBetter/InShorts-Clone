@@ -1,0 +1,19 @@
+.footer{
+    background:#323232;
+    padding: 10px 50px;
+    display: flex;
+    flex-direction: column;
+    color: #fff;
+    align-items: center;
+    width: 100%;
+}
+
+.inshorts-logo{
+    display: flex;
+    align-items: center;
+    margin-right: 10px;
+    width: 60%;
+}
+
+
+
